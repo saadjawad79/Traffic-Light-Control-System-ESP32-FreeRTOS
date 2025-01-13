@@ -1,0 +1,10 @@
+Smart Traffic Light Control System using ESP32 and FreeRTOS
+
+Group Members
+ESD Group 1
+
+Muhammad Saad 			372985
+Muhammad Majid Ferozi           386488
+Hassan Ahmed			369212
+Muhammad Ali Haider		373296
+Muhammad Khuzaima		368838
